@@ -1,0 +1,27 @@
+INSTALL GUIDE
+=============
+
+
+Requirement
+-----------
+
+On Debian Linux, you just need : 
+   libsdl-dev
+   libsdl-image-dev 
+   libsdl-ttf2.0-dev
+   libstdc++-dev
+   g++
+   make
+
+It compile fine on debian squeeze
+
+Compile
+-------
+
+# cd src
+# make clean
+# make
+# make clean
+# cd ..
+# ./tetris
+
