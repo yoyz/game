@@ -1,0 +1,2 @@
+export PATH=/opt/opendingux-toolchain/usr/bin:$PATH
+
