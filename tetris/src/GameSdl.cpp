@@ -140,7 +140,7 @@ int game_play(DrawSdl on_screen)
 	      break;
 	    }
 	}
-      GB.display_map();
+      //GB.display_map();
       
       if (!(GB.can_shape_move_down(current_shape)) &&
 	  shape_to_insert)
